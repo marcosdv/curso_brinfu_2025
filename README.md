@@ -6,7 +6,7 @@
 
 ### Conteúdo
 
-- [ ] Animações em Flutter: Técnicas, Transições e Performance - 20/08/2025
+- [x] Animações em Flutter: Técnicas, Transições e Performance - 20/08/2025
 
 ### Tecnologias
 
